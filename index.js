@@ -1,6 +1,6 @@
 const contentLetterSrart_actived = "Bức thư này xin được đặc biệt dành tặng cho người xinh đẹp nhất ngày hôm nay!" //Lời mở đầu cho bức thư
 const mainContentLetter = "Cùng với cả Nước, toàn Đảng, toàn dân và toàn quân kỷ niệm ngày thương binh liệt sĩ 27-07."
- +" Tôi, Trịnh Vinh Huy, xin nhiệt liệt Chúc mừng sinh nhật Đồng chí Thảo nheng!" //Nội dung của bức thư
+ +" Tôi, Trịnh Vinh Huy, xin nhiệt liệt Chúc mừng sinh nhật Đồng chí Thảo. Tuổi mới ăn no chóng lớn, tiền bạc đầy nhà và gà thì đầy chuồng nheng!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
