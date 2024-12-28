@@ -1,5 +1,5 @@
 const contentLetterSrart_actived = "Bức thư này đặc biệt xin được tặng cho người quan trọng nhât hôm nay!" //Lời mở đầu cho bức thư
-const mainContentLetter = "CChúc mừng sinh nhật, Thảo ơi! Ngày sinh nhật của Thảo đúng vào mùa hè oi bức, chắc là vì Thảo quá 'nóng bỏng' nên trời mới nóng đến vậy."
+const mainContentLetter = "Chúc mừng sinh nhật, Thảo ơi! Ngày sinh nhật của Thảo đúng vào mùa hè oi bức, chắc là vì Thảo quá 'nóng bỏng' nên trời mới nóng đến vậy."
  +"Hy vọng trong tuổi mới, Thảo sẽ luôn tươi cười, xinh đẹp và không bao giờ 'nóng mắt' với ai khác ngoài mình. Chúc Thảo có một ngày sinh nhật thật vui vẻ, hài hước và đầy ắp tiếng cười nhé!" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
